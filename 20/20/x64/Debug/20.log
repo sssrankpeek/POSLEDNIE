@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\росен\source\repos\20\20\Source.c(19,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\росен\source\repos\20\20\Source.c(26,3): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\20\20\Source.c(31,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\росен\source\repos\20\20\Source.c(39,3): warning C4098: main: функция типа "void", возвращающая значение
+  20.vcxproj -> C:\Users\росен\source\repos\20\x64\Debug\20.exe

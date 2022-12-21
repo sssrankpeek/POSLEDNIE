@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\росен\source\repos\15lbbb\15lbbb\Source.c(9,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  15lbbb.vcxproj -> C:\Users\росен\source\repos\15lbbb\x64\Debug\15lbbb.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\росен\source\repos\dz20\dz20\Source.c(14,3): warning C4098: main: функция типа "void", возвращающая значение
+  dz20.vcxproj -> C:\Users\росен\source\repos\dz20\x64\Debug\dz20.exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\росен\source\repos\19\19\Source.c(48,34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\росен\source\repos\19\19\Source.c(62,3): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\19\19\Source.c(83,4): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\19\19\Source.c(98,4): warning C4098: main: функция типа "void", возвращающая значение
+  19.vcxproj -> C:\Users\росен\source\repos\19\x64\Debug\19.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\росен\source\repos\dz16\dz16\Source.c(56,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  dz16.vcxproj -> C:\Users\росен\source\repos\dz16\x64\Debug\dz16.exe

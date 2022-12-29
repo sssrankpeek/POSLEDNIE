@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\росен\source\repos\21ujas\21ujas\Source.c(251,3): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\21ujas\21ujas\Source.c(257,2): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\21ujas\21ujas\Source.c(193): warning C4715: sort_elements: значение возвращается не при всех путях выполнения
+  21ujas.vcxproj -> C:\Users\росен\source\repos\21ujas\x64\Debug\21ujas.exe
